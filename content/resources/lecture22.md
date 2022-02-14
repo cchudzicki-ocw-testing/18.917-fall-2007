@@ -3,7 +3,12 @@ content_type: resource
 description: Lecture notes on a homotopy pushout square.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/a21e17d93cf34260f82e1923285a218f_lecture22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture22.pdf
+type: OCWFile
 uid: a21e17d9-3cf3-4260-f82e-1923285a218f
 ---

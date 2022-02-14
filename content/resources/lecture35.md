@@ -5,7 +5,12 @@ description: Lecture notes on the relationship between unstable modules over the
   to itself.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/d16fe1507d3d1ab0054bd276cd0dcdb7_lecture35.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture35.pdf
+type: OCWFile
 uid: d16fe150-7d3d-1ab0-054b-d276cd0dcdb7
 ---

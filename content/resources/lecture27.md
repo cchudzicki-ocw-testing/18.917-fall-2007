@@ -3,7 +3,12 @@ content_type: resource
 description: Lecture notes on p-adic homotopy theory and E8-algebras.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2ceebd82c29504418f905b25165eaf61_lecture27.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture27.pdf
+type: OCWFile
 uid: 2ceebd82-c295-0441-8f90-5b25165eaf61
 ---

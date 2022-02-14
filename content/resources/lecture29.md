@@ -4,7 +4,12 @@ description: Lecture notes on the atomicity of connected p-finite spaces and the
   of the homology spectral sequence for a cosimplicial space.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/67a23653f9c330f752867a628f2a9cdb_lecture29.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture29.pdf
+type: OCWFile
 uid: 67a23653-f9c3-30f7-5286-7a628f2a9cdb
 ---
