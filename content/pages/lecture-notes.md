@@ -27,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ({{< resource_link 45dd9ddf-de56-3d3f-01ef-ed5cc60f13fe "PDF" >}})
+Introduction ({{% resource_link 45dd9ddf-de56-3d3f-01ef-ed5cc60f13fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ Introduction ({{< resource_link 45dd9ddf-de56-3d3f-01ef-ed5cc60f13fe "PDF" >}})
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Steenrod operations ({{< resource_link 46c2e62c-9fe4-7300-96ed-92d58d85783b "PDF" >}})
+Steenrod operations ({{% resource_link 46c2e62c-9fe4-7300-96ed-92d58d85783b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +45,7 @@ Steenrod operations ({{< resource_link 46c2e62c-9fe4-7300-96ed-92d58d85783b "PDF
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Basic properties of Steenrod operations ({{< resource_link 863accc0-2cce-6a49-ef18-c5a930a4156f "PDF" >}})
+Basic properties of Steenrod operations ({{% resource_link 863accc0-2cce-6a49-ef18-c5a930a4156f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ Basic properties of Steenrod operations ({{< resource_link 863accc0-2cce-6a49-ef
 4
 {{< tdclose >}}
 {{< tdopen >}}
-The Adem relations ({{< resource_link b24f6c29-3fad-91e1-a0ba-e626d689d886 "PDF" >}})
+The Adem relations ({{% resource_link b24f6c29-3fad-91e1-a0ba-e626d689d886 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +63,7 @@ The Adem relations ({{< resource_link b24f6c29-3fad-91e1-a0ba-e626d689d886 "PDF"
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Adem relations (cont.) ({{< resource_link 2c1e5e60-6f38-a085-cc3c-340d5290f675 "PDF" >}})
+The Adem relations (cont.) ({{% resource_link 2c1e5e60-6f38-a085-cc3c-340d5290f675 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +72,7 @@ The Adem relations (cont.) ({{< resource_link 2c1e5e60-6f38-a085-cc3c-340d5290f6
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Admissible monomials ({{< resource_link e486b9e1-fd55-82e6-5ce7-403b933d9f39 "PDF" >}})
+Admissible monomials ({{% resource_link e486b9e1-fd55-82e6-5ce7-403b933d9f39 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ Admissible monomials ({{< resource_link e486b9e1-fd55-82e6-5ce7-403b933d9f39 "PD
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Free unstable modules ({{< resource_link 0b65ed54-33a1-5707-11db-5113fe4576a0 "PDF" >}})
+Free unstable modules ({{% resource_link 0b65ed54-33a1-5707-11db-5113fe4576a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Free unstable modules ({{< resource_link 0b65ed54-33a1-5707-11db-5113fe4576a0 "P
 8
 {{< tdclose >}}
 {{< tdopen >}}
-A theorem of Gabriel-Kuhn-Popesco ({{< resource_link bb74608e-217e-c507-3855-7c33eaa40db3 "PDF" >}})
+A theorem of Gabriel-Kuhn-Popesco ({{% resource_link bb74608e-217e-c507-3855-7c33eaa40db3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ A theorem of Gabriel-Kuhn-Popesco ({{< resource_link bb74608e-217e-c507-3855-7c3
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Injectivity of the cohomology of BV ({{< resource_link 6eb13ec5-cf01-a648-7074-443b2264771a "PDF" >}})
+Injectivity of the cohomology of BV ({{% resource_link 6eb13ec5-cf01-a648-7074-443b2264771a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Injectivity of the cohomology of BV ({{< resource_link 6eb13ec5-cf01-a648-7074-4
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Generating analytic functors ({{< resource_link 2ea8b21c-e449-8d75-7a26-1c7123784662 "PDF" >}})
+Generating analytic functors ({{% resource_link 2ea8b21c-e449-8d75-7a26-1c7123784662 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +117,7 @@ Generating analytic functors ({{< resource_link 2ea8b21c-e449-8d75-7a26-1c712378
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Tensor products and algebras ({{< resource_link 127a67ca-bc1f-4eab-85d6-ecfbc8351bf0 "PDF" >}})
+Tensor products and algebras ({{% resource_link 127a67ca-bc1f-4eab-85d6-ecfbc8351bf0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Tensor products and algebras ({{< resource_link 127a67ca-bc1f-4eab-85d6-ecfbc835
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Free unstable algebras ({{< resource_link 0ec7fc51-eeff-de4f-ef72-d8592f0ff05b "PDF" >}})
+Free unstable algebras ({{% resource_link 0ec7fc51-eeff-de4f-ef72-d8592f0ff05b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +135,7 @@ Free unstable algebras ({{< resource_link 0ec7fc51-eeff-de4f-ef72-d8592f0ff05b "
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The dual Steenrod algebra ({{< resource_link b8b9c6c5-add8-148a-701a-d211ded08308 "PDF" >}})
+The dual Steenrod algebra ({{% resource_link b8b9c6c5-add8-148a-701a-d211ded08308 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ The dual Steenrod algebra ({{< resource_link b8b9c6c5-add8-148a-701a-d211ded0830
 14
 {{< tdclose >}}
 {{< tdopen >}}
-The Frobenius ({{< resource_link 1cbd4d60-46d3-bdb8-0ec4-1589c9a30626 "PDF" >}})
+The Frobenius ({{% resource_link 1cbd4d60-46d3-bdb8-0ec4-1589c9a30626 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ The Frobenius ({{< resource_link 1cbd4d60-46d3-bdb8-0ec4-1589c9a30626 "PDF" >}})
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Finiteness conditions ({{< resource_link a283ab60-22e3-df1e-8097-a3917dc0480a "PDF" >}})
+Finiteness conditions ({{% resource_link a283ab60-22e3-df1e-8097-a3917dc0480a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Finiteness conditions ({{< resource_link a283ab60-22e3-df1e-8097-a3917dc0480a "P
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Some unstable injectives ({{< resource_link 6f4166ae-8994-0c72-7d88-385ee4e19215 "PDF" >}})
+Some unstable injectives ({{% resource_link 6f4166ae-8994-0c72-7d88-385ee4e19215 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ Some unstable injectives ({{< resource_link 6f4166ae-8994-0c72-7d88-385ee4e19215
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Injectivity of tensor products ({{< resource_link adace401-f4a2-f92e-5798-e17157aed09b "PDF" >}})
+Injectivity of tensor products ({{% resource_link adace401-f4a2-f92e-5798-e17157aed09b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ Injectivity of tensor products ({{< resource_link adace401-f4a2-f92e-5798-e17157
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Lannes' T-functor ({{< resource_link 5394f1ef-b5a9-8e79-43bc-17a6201b0c3d "PDF" >}})
+Lannes' T-functor ({{% resource_link 5394f1ef-b5a9-8e79-43bc-17a6201b0c3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ Lannes' T-functor ({{< resource_link 5394f1ef-b5a9-8e79-43bc-17a6201b0c3d "PDF" 
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of T ({{< resource_link a978e588-df8d-c555-6306-2ef6784539cc "PDF" >}})
+Properties of T ({{% resource_link a978e588-df8d-c555-6306-2ef6784539cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ Properties of T ({{< resource_link a978e588-df8d-c555-6306-2ef6784539cc "PDF" >}
 20
 {{< tdclose >}}
 {{< tdopen >}}
-The T-functor and unstable algebras ({{< resource_link 2c04cf94-8ae0-198e-ea9b-ac7c7b2cae2e "PDF" >}})
+The T-functor and unstable algebras ({{% resource_link 2c04cf94-8ae0-198e-ea9b-ac7c7b2cae2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +207,7 @@ The T-functor and unstable algebras ({{< resource_link 2c04cf94-8ae0-198e-ea9b-a
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Free E-infinity algebras ({{< resource_link f2cf67b2-ff4a-328a-1bb8-81e079146d38 "PDF" >}})
+Free E-infinity algebras ({{% resource_link f2cf67b2-ff4a-328a-1bb8-81e079146d38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +216,7 @@ Free E-infinity algebras ({{< resource_link f2cf67b2-ff4a-328a-1bb8-81e079146d38
 22
 {{< tdclose >}}
 {{< tdopen >}}
-A pushout square ({{< resource_link a21e17d9-3cf3-4260-f82e-1923285a218f "PDF" >}})
+A pushout square ({{% resource_link a21e17d9-3cf3-4260-f82e-1923285a218f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +225,7 @@ A pushout square ({{< resource_link a21e17d9-3cf3-4260-f82e-1923285a218f "PDF" >
 23
 {{< tdclose >}}
 {{< tdopen >}}
-The Eilenberg-Moore spectral sequence ({{< resource_link ea5416f5-bc43-3bc7-a68a-411ffd3d5ad3 "PDF" >}})
+The Eilenberg-Moore spectral sequence ({{% resource_link ea5416f5-bc43-3bc7-a68a-411ffd3d5ad3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +234,7 @@ The Eilenberg-Moore spectral sequence ({{< resource_link ea5416f5-bc43-3bc7-a68a
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Operations on E-infinity algebras ({{< resource_link 8876534a-268a-c980-8c06-fd4562ba9fde "PDF" >}})
+Operations on E-infinity algebras ({{% resource_link 8876534a-268a-c980-8c06-fd4562ba9fde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +243,7 @@ Operations on E-infinity algebras ({{< resource_link 8876534a-268a-c980-8c06-fd4
 25
 {{< tdclose >}}
 {{< tdopen >}}
-T and the cohomology of spaces ({{< resource_link 68965ab3-b9b1-5a2e-c848-9bc108f675cf "PDF" >}})
+T and the cohomology of spaces ({{% resource_link 68965ab3-b9b1-5a2e-c848-9bc108f675cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +252,7 @@ T and the cohomology of spaces ({{< resource_link 68965ab3-b9b1-5a2e-c848-9bc108
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Profinite spaces ({{< resource_link 2a356f2c-ca8a-92be-ca30-416838eb30b7 "PDF" >}})
+Profinite spaces ({{% resource_link 2a356f2c-ca8a-92be-ca30-416838eb30b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +261,7 @@ Profinite spaces ({{< resource_link 2a356f2c-ca8a-92be-ca30-416838eb30b7 "PDF" >
 27
 {{< tdclose >}}
 {{< tdopen >}}
-_p_\-adic homotopy theory ({{< resource_link 2ceebd82-c295-0441-8f90-5b25165eaf61 "PDF" >}})
+_p_\-adic homotopy theory ({{% resource_link 2ceebd82-c295-0441-8f90-5b25165eaf61 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +270,7 @@ _p_\-adic homotopy theory ({{< resource_link 2ceebd82-c295-0441-8f90-5b25165eaf6
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Atomicity ({{< resource_link 2b6eefd9-51d6-5db1-f115-ec5303c4fda8 "PDF" >}})
+Atomicity ({{% resource_link 2b6eefd9-51d6-5db1-f115-ec5303c4fda8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -279,7 +279,7 @@ Atomicity ({{< resource_link 2b6eefd9-51d6-5db1-f115-ec5303c4fda8 "PDF" >}})
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Atomicity of connected p-Finite spaces ({{< resource_link 67a23653-f9c3-30f7-5286-7a628f2a9cdb "PDF" >}})
+Atomicity of connected p-Finite spaces ({{% resource_link 67a23653-f9c3-30f7-5286-7a628f2a9cdb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +288,7 @@ Atomicity of connected p-Finite spaces ({{< resource_link 67a23653-f9c3-30f7-528
 30
 {{< tdclose >}}
 {{< tdopen >}}
-The Sullivan conjecture ({{< resource_link 26a33455-223c-fb61-1001-acc4e1f507bb "PDF" >}})
+The Sullivan conjecture ({{% resource_link 26a33455-223c-fb61-1001-acc4e1f507bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +297,7 @@ The Sullivan conjecture ({{< resource_link 26a33455-223c-fb61-1001-acc4e1f507bb 
 31
 {{< tdclose >}}
 {{< tdopen >}}
-p-Profinite completion of spaces ({{< resource_link fd4a66ba-0a44-ac67-4dae-77d8b031c12d "PDF" >}})
+p-Profinite completion of spaces ({{% resource_link fd4a66ba-0a44-ac67-4dae-77d8b031c12d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +306,7 @@ p-Profinite completion of spaces ({{< resource_link fd4a66ba-0a44-ac67-4dae-77d8
 32
 {{< tdclose >}}
 {{< tdopen >}}
-The arithmetic square ({{< resource_link 17958e77-32b0-801e-dd56-1637e19ea6cf "PDF" >}})
+The arithmetic square ({{% resource_link 17958e77-32b0-801e-dd56-1637e19ea6cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +315,7 @@ The arithmetic square ({{< resource_link 17958e77-32b0-801e-dd56-1637e19ea6cf "P
 33
 {{< tdclose >}}
 {{< tdopen >}}
-The Sullivan conjecture revisited ({{< resource_link bf1e2b27-db51-5445-0130-f322fdff1195 "PDF" >}})
+The Sullivan conjecture revisited ({{% resource_link bf1e2b27-db51-5445-0130-f322fdff1195 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +324,7 @@ The Sullivan conjecture revisited ({{< resource_link bf1e2b27-db51-5445-0130-f32
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Quaternionic projective space ({{< resource_link 0f66a3c9-3d18-c772-9c7e-88b092033c6b "PDF" >}})
+Quaternionic projective space ({{% resource_link 0f66a3c9-3d18-c772-9c7e-88b092033c6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +333,7 @@ Quaternionic projective space ({{< resource_link 0f66a3c9-3d18-c772-9c7e-88b0920
 35
 {{< tdclose >}}
 {{< tdopen >}}
-Analytic functors revisited ({{< resource_link d16fe150-7d3d-1ab0-054b-d276cd0dcdb7 "PDF" >}})
+Analytic functors revisited ({{% resource_link d16fe150-7d3d-1ab0-054b-d276cd0dcdb7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +342,7 @@ Analytic functors revisited ({{< resource_link d16fe150-7d3d-1ab0-054b-d276cd0dc
 36
 {{< tdclose >}}
 {{< tdopen >}}
-The Nil-filtration ({{< resource_link cf454878-99e6-8d0c-ff43-17f2258af573 "PDF" >}})
+The Nil-filtration ({{% resource_link cf454878-99e6-8d0c-ff43-17f2258af573 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -351,7 +351,7 @@ The Nil-filtration ({{< resource_link cf454878-99e6-8d0c-ff43-17f2258af573 "PDF"
 37
 {{< tdclose >}}
 {{< tdopen >}}
-The Krull filtration ({{< resource_link 5c8ef4d8-cd38-530d-9dc7-c6a5a95ac852 "PDF" >}})
+The Krull filtration ({{% resource_link 5c8ef4d8-cd38-530d-9dc7-c6a5a95ac852 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +360,7 @@ The Krull filtration ({{< resource_link 5c8ef4d8-cd38-530d-9dc7-c6a5a95ac852 "PD
 38
 {{< tdclose >}}
 {{< tdopen >}}
-Epilogue ({{< resource_link 2203a716-0eb5-845d-d4b9-1e7c2075170e "PDF" >}})
+Epilogue ({{% resource_link 2203a716-0eb5-845d-d4b9-1e7c2075170e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
