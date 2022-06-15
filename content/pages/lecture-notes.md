@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course and information
+  on lecture topics.
 draft: false
 learning_resource_types:
 - Lecture Notes
